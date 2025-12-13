@@ -9,7 +9,29 @@ body {
 h1 {
     color: #ffbaeb; /* Gold for emphasis */
 }
+h2{
+ color:#ffbaeb
+}
 img {
     border: 2px solid white;
     margin: 20px 0;
+}
+/* unvisited link */
+a:link {
+  color: #ffbaeb;
+}
+
+/* visited link */
+a:visited {
+  color: #ffbaeb;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(255, 0, 128);
+}
+
+/* selected link */
+a:active {
+  color:#ffbaeb;
 }
