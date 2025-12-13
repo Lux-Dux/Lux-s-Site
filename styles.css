@@ -1,0 +1,15 @@
+body {
+    background-color: #60866E;
+    color: white;
+    font-family: Georgia, serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #ffbaeb; /* Gold for emphasis */
+}
+img {
+    border: 2px solid white;
+    margin: 20px 0;
+}
